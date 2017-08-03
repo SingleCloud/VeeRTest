@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">VeeRTest</string>
+    <string name="menu_add">收藏</string>
+    <string name="menu_minus">取消收藏</string>
+    <string name="menu_refresh">刷新</string>
+    <string name="menu_query">查看收藏</string>
+
+</resources>
